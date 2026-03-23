@@ -1,0 +1,137 @@
+{
+  "hero": {
+    "eyebrow": "Engineer · Developer · Innovator",
+    "name_first": "BABI",
+    "name_last_green": "AZEES",
+    "name_last": "SHAIK",
+    "sub": "Software Engineer · Machine Learning · Python",
+    "desc": "Building intelligent systems at the intersection of machine learning and practical software engineering. Focused on medical AI and real-world applications.",
+    "stats": [
+      {
+        "val": "3+",
+        "label": "Projects"
+      },
+      {
+        "val": "2",
+        "label": "Internships"
+      },
+      {
+        "val": "2026",
+        "label": "Graduate"
+      }
+    ],
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/babi-azees-shaik",
+      "email": "azeesbabi@gmail.com"
+    }
+  },
+  "about": {
+    "heading": "Turning data<br>into <span class=\"green\">decisions</span>",
+    "paragraphs": [
+      "I'm a computer science student specialising in AI and machine learning, with hands-on experience building production-ready systems that solve real problems.",
+      "My work spans medical image analysis, conversational AI, and web-integrated machine learning — with a focus on clean code, reproducible models, and interfaces people can actually use.",
+      "Currently completing my B.Tech at Siddarth Institute of Science and Technology, expected to graduate in 2026."
+    ]
+  },
+  "skills": [
+    "Python",
+    "TensorFlow",
+    "Machine Learning",
+    "Deep Learning",
+    "Flask",
+    "SQL",
+    "Data Analysis",
+    "NLP",
+    "Git & GitHub",
+    "CNN",
+    "Transfer Learning",
+    "DSA"
+  ],
+  "projects": [
+    {
+      "index": "001",
+      "title": "Kidney Stone Detection Web App",
+      "desc": "A web application that detects kidney stones from medical images using a trained convolutional neural network. Integrated with a Flask backend and a clean, accessible frontend designed for clinical use.",
+      "tags": [
+        "Python",
+        "Flask",
+        "TensorFlow",
+        "CNN"
+      ],
+      "type": "Personal"
+    },
+    {
+      "index": "002",
+      "title": "HematoVision — Blood Cell Classification",
+      "desc": "Developed during an internship, this model classifies blood cell images into diagnostic categories using transfer learning. Aimed at improving efficiency for medical professionals in haematology workflows.",
+      "tags": [
+        "Transfer Learning",
+        "TensorFlow",
+        "Python",
+        "Medical AI"
+      ],
+      "type": "Internship"
+    },
+    {
+      "index": "003",
+      "title": " Real-Time Human–Computer Interaction Using Computer Vision",
+      "desc": "The Gesture Control System is a real-time Human–Computer Interaction (HCI) application that allows users to control system-level operations using hand gestures captured via webcam. It combines MediaPipe, OpenCV, and Flask to provide live gesture recognition, backend processing, and a web-based dashboard.",
+      "tags": [
+        "Computer vision",
+        "MediaPipe",
+        "openCV"
+      ],
+      "type": "Personal"
+    }
+  ],
+  "experience": [
+    {
+      "date": "OCT 2025<br>MAR 2026",
+      "role": "Machine Learning / AI Intern",
+      "org": "Smart Internz · 6 Months",
+      "points": [
+        "Developed a project on Rising Water Flood Detection using machine learning techniques.",
+        "Performed data preprocessing, feature engineering, and model training for accurate predictions.",
+        "Designed a system to analyze water level trends and detect potential flood risks early.",
+        "Worked with Python, NumPy, Pandas, and data visualization tools.",
+        "Enhanced skills in model evaluation, debugging, and optimization.",
+        "Collaborated in a guided learning environment with mentorship and periodic assessments."
+      ],
+      "outcome": "The Rising Water Flood Detection system enables early warning by analyzing environmental data, helping in disaster preparedness and risk management."
+    },
+    {
+      "date": "JUN 2025<br>AUG 2025",
+      "role": "Machine Learning Intern",
+      "org": "SmartInternz · Virtual",
+      "points": [
+        "Completed a 2-month programme focused on applied machine learning.",
+        "Built and deployed ML models on real-world datasets.",
+        "Collaborated with a remote team on end-to-end project delivery."
+      ],
+      "outcome": ""
+    },
+    {
+      "date": "FEB 2024<br>APR 2024",
+      "role": "Python Bootcamp",
+      "org": "Udemy · Jose Portilla",
+      "points": [
+        "Built Python applications across automation, data analysis, and visualisation.",
+        "Developed strong foundations in scripting, OOP, and library ecosystems."
+      ],
+      "outcome": ""
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Technology<br>Computer Science — AI & ML",
+    "school": "Siddarth Institute of Science and Technology, Puttur, India",
+    "courses": "Python · Machine Learning · Deep Learning · AI · Data Analysis · Web Development",
+    "year": "2026",
+    "status": "Expected · June 2026"
+  },
+  "contact": {
+    "email": "azeesbabi@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/babi-azees-shaik",
+    "github": "https://github.com/babiazees007",
+    "location": "Tirupathi, Andhra Pradesh, India"
+  }
+}
