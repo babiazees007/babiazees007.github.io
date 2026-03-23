@@ -861,7 +861,7 @@ hr { border: none; border-top: 1px solid rgba(118,185,0,0.08); margin: 0; }
 <script>
   async function loadData() {
     try {
-      const response = await fetch('./data.json');
+      const response = await fetch('data.json');
       const data = await response.json();
       renderPortfolio(data);
     } catch (error) {
