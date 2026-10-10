@@ -137,7 +137,6 @@ I'm a B.Tech Computer Science graduate (AI & ML specialization, CGPA 8.73) who b
 
 ## 📊 GitHub Stats
 
-![Babi's GitHub stats](https://github-readme-stats.vercel.app/api?username=babiazees007&show_icons=true&theme=dark&hide_border=true)
 ![Babi's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=babiazees007&layout=compact&theme=dark&hide_border=true)
 
 ---
