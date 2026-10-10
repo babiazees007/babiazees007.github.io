@@ -1,6 +1,55 @@
-Hi, I'm Babi Azees Shaik 👋
 
-B.Tech CSE (AI & ML) graduate from Tirupathi, Andhra Pradesh, currently working as an **AI Intern at Rubixe**. I build end-to-end AI and ML systems, from classical machine learning and deep learning to RAG pipelines, local-LLM applications, and web apps people can actually use. My projects span Machine Learning, Computer Vision, NLP, Generative AI, and full-stack development.
+
+<h1 align="center">Hi 👋, I'm Babi Azees Shaik</h1>
+<h3 align="center">AI/ML Engineer | Generative AI & Agentic Systems | Full-Stack Builder</h3>
+
+<p align="center">
+  <a href="https://babiazees007.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="http://www.linkedin.com/in/babi-azees-shaik"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:azeesbabi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+### 🧠 About Me
+
+I'm a B.Tech Computer Science graduate (AI & ML specialization, CGPA 8.73) who builds **end-to-end AI systems** — from local LLM applications and RAG pipelines to full-stack products with real users. I care about shipping things that work outside a Jupyter notebook: self-hosted tools that don't leak data to the cloud, dashboards that answer a real business question, and apps built for people who aren't developers.
+
+- 🔭 Currently building **agentic AI systems** with LangChain / LangGraph and exploring local-first LLM deployment with Ollama
+- 🌱 Deepening my grip on **RAG evaluation, retrieval quality, and production ML pipelines**
+- 💼 Open to roles in **AI/ML Engineering, Generative AI Engineering, Data Analysis, and Software Development**
+- ⚡ I like projects with a real constraint — no cloud dependency, low-literacy users, real datasets — over toy demos
+- 📫 Reach me at **azeesbabi@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**AI / ML / GenAI**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Backend / Web**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+---
 
 🌐 **Portfolio:** [babiazees007.github.io](https://babiazees007.github.io)
 
@@ -60,7 +109,7 @@ B.Tech CSE (AI & ML) graduate from Tirupathi, Andhra Pradesh, currently working 
 
 ## 🔧 What I've Worked On
 
-**GenAI & Agents:** Local LLMs with Ollama · RAG pipelines · LangGraph orchestration · ReAct agents with LlamaIndex · ATS scoring and gap analysis
+**GenAI & Agents:** Local LLMs with Ollama · RAG pipelines · LangGraph orchestration · ATS scoring and gap analysis
 
 **Machine Learning:** Imbalanced classification · Threshold optimization · Gradient boosting (LightGBM, XGBoost) · Unsupervised clustering with PCA · Feature engineering · Time-series features for stock prediction
 
